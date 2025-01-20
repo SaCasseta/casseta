@@ -45,7 +45,7 @@ Sou estudante de **Desenvolvimento de Sistemas**, e estou cursando **Curso de Ap
 ## 🛠 Ferramentas que uso
 - **IDE's**: Visual Studio Code, Eclipse
 - **Simuladores**: Proteus, Tinkercad (para eletrônica)
-- **Plataformas de Desenvolvimento**: Arduino IDE, Raspberry Pi OS
+- **Plataformas de Desenvolvimento**: Arduino IDE
 
 ---
 
